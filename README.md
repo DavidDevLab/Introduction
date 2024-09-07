@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HaveAKitKat (but considering to change it in to a cooler username)
+- 👀 I’m interested in coding, Arduino projects, and building creative tech solutions.
+- 🌱 Currently learning C++ and diving into automation with Arduino (super excited to build my own smart greenhouse 🌱💡).
+- 💞️ Looking to collaborate on innovative projects with like-minded developers and tech enthusiasts.
+- 📫 How to reach me: GitHub or Instagram: il.david.e
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started coding because i LOVE the dopamine rush it gives me when something works!
